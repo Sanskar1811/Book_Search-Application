@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Book Search Application
+Developed Book Finder Application which is designed to help users to discovering the books. Powered by the Google Books API, this app allows users to search for books by title, author, or category, providing detailed information and cover images for each result.
+<br/>
+Project Link : https://bookfinderbysanskar.web.app/
+<br/>
+Tech Stack Utilized : HTML , CSS , JS , React
+Deployment on : Firebase 
+>>>>>>> origin/main
